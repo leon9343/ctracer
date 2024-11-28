@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ctracer.dir/src/Utilities/image.c.o CMakeFiles/ctracer.dir/src/Utilities/rlog.c.o CMakeFiles/ctracer.dir/src/main.c.o -o ctracer  /usr/lib64/libjpeg.so
